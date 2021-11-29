@@ -23,3 +23,4 @@
 
 - Learning Web Dev at [The Hacking Project](https://www.thehackingproject.org/)
 - Wanting to become an express.js specialized back-end dev
+- passionate of linux
