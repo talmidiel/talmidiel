@@ -28,7 +28,7 @@
 
 <br/>
 
-## stack
+## Stack
 ![ruby](https://img.shields.io/badge/-ruby-red) ![rails](https://img.shields.io/badge/-rails-critical) ![html](https://img.shields.io/badge/-html-green) ![css](https://img.shields.io/badge/-css-green) ![javascript](https://img.shields.io/badge/-javascript-yellow)
 
 ***
