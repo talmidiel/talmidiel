@@ -20,10 +20,10 @@
 ## I am Anthony Charpenay
 
 - Learning Web Dev at [The Hacking Project](https://www.thehackingproject.org/)
-- Wanting to become an express.js specialized back-end dev
-- passionate of linux
+- True passionate of linux
+- Always wants to learn more things
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talmidiel&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/talmidiel)
 
 ***
-thanks to anuragharza for the [github stats api !](https://github.com/anuraghazra/github-readme-stats)
+Thanks to anuragharza for the [github stats api !](https://github.com/anuraghazra/github-readme-stats)
