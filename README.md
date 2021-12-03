@@ -9,7 +9,7 @@
 
   <a href="https://app.daily.dev/talmidiel" target="_blank">
     <img
-      width="300"
+      width="290"
       align="right"
       src="https://github.com/talmidiel/talmidiel/blob/master/devcard.svg"
     />
