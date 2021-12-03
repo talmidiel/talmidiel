@@ -14,7 +14,7 @@
 
   <a href="https://app.daily.dev/talmidiel" target="_blank">
     <img
-      width="220"
+      width="215"
       align="right"
       src="https://github.com/talmidiel/talmidiel/blob/master/devcard.svg"
     />
@@ -32,4 +32,4 @@
 ![ruby](https://img.shields.io/badge/-ruby-red) ![rails](https://img.shields.io/badge/-rails-critical) ![html](https://img.shields.io/badge/-html-green) ![css](https://img.shields.io/badge/-css-green) ![javascript](https://img.shields.io/badge/-javascript-yellow)
 
 ***
-Thanks to anuragharza for the [github stats api !](https://github.com/anuraghazra/github-readme-stats)
+Thanks to anuragharza for the [github stats api](https://github.com/anuraghazra/github-readme-stats) !
