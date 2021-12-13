@@ -32,4 +32,4 @@
 ![ruby](https://img.shields.io/badge/-ruby-red) ![rails](https://img.shields.io/badge/-rails-critical) ![javascript](https://img.shields.io/badge/-javascript-yellow)
 
 ***
-Thanks to anuragharza for the [github stats api](https://github.com/anuraghazra/github-readme-stats) !
+Thanks to anuraghazra for the [github stats api](https://github.com/anuraghazra/github-readme-stats) !
