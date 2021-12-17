@@ -14,7 +14,7 @@
 
   <a href="https://app.daily.dev/talmidiel" target="_blank">
     <img
-      width="215"
+      width="350"
       align="right"
       src="https://github.com/talmidiel/talmidiel/blob/master/devcard.svg"
     />
@@ -24,7 +24,10 @@
 - True passionate of linux
 - Always wants to learn more things
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talmidiel&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/talmidiel)
+[![talmidiels's GitHub stats](https://github-readme-stats.vercel.app/api?username=talmidiel&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/talmidiel)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talmidiel&langs_count=5&theme=vision-friendly-dark&layout=compact)](https://github.com/talmidiel)
+
 
 <br/>
 
