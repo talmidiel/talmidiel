@@ -12,24 +12,9 @@
 
 ## I am Anthony Charpenay
 
-  <a href="https://app.daily.dev/talmidiel" target="_blank">
-    <img
-      width="330"
-      align="right"
-      src="https://github.com/talmidiel/talmidiel/blob/master/devcard.svg"
-    />
-  </a>
-
 - Learning Web Dev at [The Hacking Project](https://www.thehackingproject.org/)
 - True passionate of linux
 - Always wants to learn more things
-
-[![talmidiels's GitHub stats](https://github-readme-stats.vercel.app/api?username=talmidiel&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/talmidiel)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talmidiel&langs_count=5&theme=vision-friendly-dark&layout=compact)](https://github.com/talmidiel)
-
-
-<br/>
 
 ## Softwares
 
@@ -43,6 +28,21 @@
 [![Ruby](https://img.shields.io/badge/ruby-backend-00ffe9?style=social&logo=ruby)](https://www.ruby-lang.org/en/)
 [![Rails](https://img.shields.io/badge/Rails-backend_and_server_side-00ffe9?style=social&logo=rubyonrails)](https://rubyonrails.org/)
 [![Javascript](https://img.shields.io/badge/javascript-front_end-00ffe9?style=social&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+
+## Some Stats
+
+  <a href="https://app.daily.dev/talmidiel" target="_blank">
+    <img
+      width="280"
+      align="right"
+      src="https://github.com/talmidiel/talmidiel/blob/master/devcard.svg"
+    />
+  </a>
+
+[![talmidiels's GitHub stats](https://github-readme-stats.vercel.app/api?username=talmidiel&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/talmidiel)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talmidiel&langs_count=5&theme=vision-friendly-dark&layout=compact)](https://github.com/talmidiel)
+
 
 ***
 Thanks to anuraghazra for the [github stats api](https://github.com/anuraghazra/github-readme-stats) !
