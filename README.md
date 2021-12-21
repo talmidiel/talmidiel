@@ -31,8 +31,17 @@
 
 <br/>
 
-## Stack
-![ruby](https://img.shields.io/badge/-ruby-red) ![rails](https://img.shields.io/badge/-rails-critical) ![javascript](https://img.shields.io/badge/-javascript-yellow)
+## Softwares
+
+[![arch](https://img.shields.io/badge/archlinux-main_os-00ffe9?style=social&logo=archlinux)](https://archlinux.org/)
+[![ubuntu](https://img.shields.io/badge/ubuntu-secondary_os-00ffe9?style=social&logo=ubuntu)](https://ubuntu.com/)
+[![git](https://img.shields.io/badge/git-vcs_and_collaboration-00ffe9?style=social&logo=git)](https://git-scm.com/)
+[![Rubymine](https://img.shields.io/badge/rubymine-powerfull_ide-00ffe9?style=social&logo=jetbrains)](https://www.jetbrains.com/fr-fr/ruby/)
+
+## Stack()
+[![Ruby](https://img.shields.io/badge/ruby-backend-00ffe9?style=social&logo=ruby)](https://www.ruby-lang.org/en/)
+[![Rails](https://img.shields.io/badge/Rails-backend_and_server_side-00ffe9?style=social&logo=rubyonrails)](https://rubyonrails.org/)
+[![Javascript](https://img.shields.io/badge/javascript-front_end-00ffe9?style=social&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
 ***
 Thanks to anuraghazra for the [github stats api](https://github.com/anuraghazra/github-readme-stats) !
