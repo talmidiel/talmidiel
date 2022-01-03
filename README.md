@@ -19,7 +19,7 @@
 ## Softwares
 
 [![arch](https://img.shields.io/badge/archlinux-main_os-00ffe9?style=social&logo=archlinux)](https://archlinux.org/)
-[![ubuntu](https://img.shields.io/badge/ubuntu-secondary_os-00ffe9?style=social&logo=ubuntu)](https://ubuntu.com/)
+[![windows](https://img.shields.io/badge/windows-gaming_os-00ffe9?style=social&logo=windows)](https://www.microsoft.com/en-us/windows/)
 [![git](https://img.shields.io/badge/git-vcs_and_collaboration-00ffe9?style=social&logo=git)](https://git-scm.com/)
 [![Heroku](https://img.shields.io/badge/heroku-deploy_test_apps-00ffe9?style=social&logo=heroku)](https://www.heroku.com/home)
 [![Rubymine](https://img.shields.io/badge/rubymine-powerfull_ide-00ffe9?style=social&logo=jetbrains)](https://www.jetbrains.com/fr-fr/ruby/)
