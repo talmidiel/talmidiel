@@ -27,7 +27,8 @@
 ## Stack
 [![Ruby](https://img.shields.io/badge/ruby-backend-00ffe9?style=social&logo=ruby)](https://www.ruby-lang.org/en/)
 [![Rails](https://img.shields.io/badge/Rails-backend_and_server_side-00ffe9?style=social&logo=rubyonrails)](https://rubyonrails.org/)
-[![Javascript](https://img.shields.io/badge/javascript-front_end-00ffe9?style=social&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+
+[![Javascript](https://img.shields.io/badge/vanilla_javascript-front_end-00ffe9?style=social&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
 ## Some Stats
 
