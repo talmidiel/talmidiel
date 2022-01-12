@@ -18,17 +18,23 @@
 
 ## Softwares
 
-[![arch](https://img.shields.io/badge/archlinux-main_os-00ffe9?style=social&logo=archlinux)](https://archlinux.org/)
-[![windows](https://img.shields.io/badge/windows-gaming_os-00ffe9?style=social&logo=windows)](https://www.microsoft.com/en-us/windows/)
-[![git](https://img.shields.io/badge/git-vcs_and_collaboration-00ffe9?style=social&logo=git)](https://git-scm.com/)
-[![Heroku](https://img.shields.io/badge/heroku-deploy_test_apps-00ffe9?style=social&logo=heroku)](https://www.heroku.com/home)
-[![Rubymine](https://img.shields.io/badge/rubymine-powerfull_ide-00ffe9?style=social&logo=jetbrains)](https://www.jetbrains.com/fr-fr/ruby/)
+[![arch](https://img.shields.io/badge/ArchLKnux-Main_Os-00ffe9?style=social&logo=archlinux)](https://archlinux.org/)
+[![windows](https://img.shields.io/badge/Windows-Gaming_Os-00ffe9?style=social&logo=windows)](https://www.microsoft.com/en-us/windows/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-Servers-00ffe9?style=social&logo=ubuntu)](https://ubuntu.com/)
+[![git](https://img.shields.io/badge/Git-VCS_And_Collaboration-00ffe9?style=social&logo=git)](https://git-scm.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-Deploy_Test_Apps-00ffe9?style=social&logo=heroku)](https://www.heroku.com/home)
+[![Rubymine](https://img.shields.io/badge/Jetbrains_Ide-Selection_Of_Powerfull_Ide-00ffe9?style=social&logo=jetbrains)](https://www.jetbrains.com/fr-fr/ruby/)
+[![AWS](https://img.shields.io/badge/AWS-EC2_And_S3-00ffe9?style=social&logo=amazon)](https://aws.amazon.com/)
 
 ## Stack
-[![Ruby](https://img.shields.io/badge/ruby-backend-00ffe9?style=social&logo=ruby)](https://www.ruby-lang.org/en/)
-[![Rails](https://img.shields.io/badge/Rails-backend_and_server_side-00ffe9?style=social&logo=rubyonrails)](https://rubyonrails.org/)
+[![Ruby](https://img.shields.io/badge/Ruby-Backend_And_Apis-00ffe9?style=social&logo=ruby)](https://www.ruby-lang.org/en/)
+[![Rails](https://img.shields.io/badge/Rails-Backend-00ffe9?style=social&logo=rubyonrails)](https://rubyonrails.org/)
 
-[![Javascript](https://img.shields.io/badge/vanilla_javascript-front_end-00ffe9?style=social&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Javascript](https://img.shields.io/badge/Vanilla_Javascript-Frontend-00ffe9?style=social&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Nodejs](https://img.shields.io/badge/NodeJS-Javascript_Runtime-00ffe9?style=social&logo=node.js)](https://nodejs.org/en/)
+
+[![Postgres](https://img.shields.io/badge/PostgreSQL-Relational_Database-00ffe9?style=social&logo=postgresql)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-JSON_Database-00ffe9?style=social&logo=mongodb)](https://www.mongodb.com/)
 
 ## Some Stats
 
