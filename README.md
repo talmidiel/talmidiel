@@ -18,7 +18,7 @@
 
 ## Softwares
 
-[![arch](https://img.shields.io/badge/ArchLKnux-Main_Os-00ffe9?style=social&logo=archlinux)](https://archlinux.org/)
+[![arch](https://img.shields.io/badge/ArchLinux-Main_Os-00ffe9?style=social&logo=archlinux)](https://archlinux.org/)
 [![windows](https://img.shields.io/badge/Windows-Gaming_Os-00ffe9?style=social&logo=windows)](https://www.microsoft.com/en-us/windows/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-Servers-00ffe9?style=social&logo=ubuntu)](https://ubuntu.com/)
 [![git](https://img.shields.io/badge/Git-VCS_And_Collaboration-00ffe9?style=social&logo=git)](https://git-scm.com/)
