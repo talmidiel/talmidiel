@@ -48,7 +48,7 @@
 
 [![talmidiels's GitHub stats](https://github-readme-stats.vercel.app/api?username=talmidiel&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/talmidiel)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talmidiel&langs_count=5&theme=vision-friendly-dark&layout=compact)](https://github.com/talmidiel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talmidiel&langs_count=6&theme=vision-friendly-dark&layout=compact)](https://github.com/talmidiel)
 
 
 ***
