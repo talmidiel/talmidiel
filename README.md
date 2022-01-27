@@ -29,12 +29,11 @@
 ## Stack
 [![Ruby](https://img.shields.io/badge/Ruby-Backend_And_Apis-00ffe9?style=social&logo=ruby)](https://www.ruby-lang.org/en/)
 [![Rails](https://img.shields.io/badge/Rails-Backend-00ffe9?style=social&logo=rubyonrails)](https://rubyonrails.org/)
-
 [![Javascript](https://img.shields.io/badge/Vanilla_Javascript-Frontend-00ffe9?style=social&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![Nodejs](https://img.shields.io/badge/NodeJS-Javascript_Runtime-00ffe9?style=social&logo=node.js)](https://nodejs.org/en/)
+[![Rust](https://img.shields.io/badge/Rust-such_a_cool_language-00ffe9?style=social&logo=rust)](https://www.rust-lang.com/)
 
 [![Postgres](https://img.shields.io/badge/PostgreSQL-Relational_Database-00ffe9?style=social&logo=postgresql)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-JSON_Database-00ffe9?style=social&logo=mongodb)](https://www.mongodb.com/)
 
 ## Some Stats
 
