@@ -1,12 +1,9 @@
 # Hi there 👋
-
-  <a href="https://www.linkedin.com/in/anthony-charpenay-a6b739210/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
-
+<a href="https://www.codewars.com/users/talmidiel">
+  <p align="center">
+    <img src=https://www.codewars.com/users/talmidiel/badges/large />
+  </p>
+</a>
 
 <br />
 
@@ -15,6 +12,12 @@
 - Learning Web Dev at [The Hacking Project](https://www.thehackingproject.org/)
 - True passionate of linux
 - Always wants to learn more things
+- <a href="https://www.linkedin.com/in/anthony-charpenay-a6b739210/">
+  <img
+    src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+    alt="LinkedIn"
+  />
+</a>
 
 ## Softwares
 
