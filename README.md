@@ -20,7 +20,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-Servers-00ffe9?style=social&logo=ubuntu)](https://ubuntu.com/)
 [![git](https://img.shields.io/badge/Git-VCS_And_Collaboration-00ffe9?style=social&logo=git)](https://git-scm.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-Deploy_Test_Apps-00ffe9?style=social&logo=heroku)](https://www.heroku.com/home)
-[![Rubymine](https://img.shields.io/badge/Jetbrains_Ide-Selection_Of_Powerfull_Ide-00ffe9?style=social&logo=jetbrains)](https://www.jetbrains.com/fr-fr/ruby/)
+[![NeoVim](https://img.shields.io/badge/NeoVim-My_favorite_text_editor-00ffe9?style=social&logo=Neovim)](https://www.jetbrains.com/fr-fr/ruby/)
 [![AWS](https://img.shields.io/badge/AWS-EC2_And_S3-00ffe9?style=social&logo=amazon)](https://aws.amazon.com/)
 
 ## Stack
