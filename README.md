@@ -24,7 +24,7 @@
 [![AWS](https://img.shields.io/badge/AWS-EC2_And_S3-00ffe9?style=social&logo=amazon)](https://aws.amazon.com/)
 
 ## Stack
-[![Ruby](https://img.shields.io/badge/Ruby-Backend_And_Apis-00ffe9?style=social&logo=ruby)](https://www.ruby-lang.org/en/)
+[![Ruby](https://img.shields.io/badge/Ruby-Backend-00ffe9?style=social&logo=ruby)](https://www.ruby-lang.org/en/)
 [![Rails](https://img.shields.io/badge/Rails-Backend-00ffe9?style=social&logo=rubyonrails)](https://rubyonrails.org/)
 [![Javascript](https://img.shields.io/badge/Vanilla_Javascript-Frontend-00ffe9?style=social&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 [![ReactJs](https://img.shields.io/badge/ReactJs-Frontend-00ffe9?style=social&logo=react)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
