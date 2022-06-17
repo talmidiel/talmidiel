@@ -9,7 +9,6 @@
 
 ## I am Anthony Charpenay
 
-- Learning Web Dev at [The Hacking Project](https://www.thehackingproject.org/)
 - True passionate of linux
 - Always wants to learn more things
 
