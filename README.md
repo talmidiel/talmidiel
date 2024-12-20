@@ -31,21 +31,3 @@
 
 [![Docker](https://img.shields.io/badge/Docker-00ffe9?style=social&logo=docker)](https://www.docker.com/)
 [![Postgres](https://img.shields.io/badge/PostgreSQL-00ffe9?style=social&logo=postgresql)](https://www.postgresql.org/)
-
-## Some Stats
-
-  <a href="https://app.daily.dev/talmidiel" target="_blank">
-    <img
-      width="280"
-      align="right"
-      src="https://github.com/talmidiel/talmidiel/blob/master/devcard.svg"
-    />
-  </a>
-
-[![talmidiels's GitHub stats](https://github-readme-stats.vercel.app/api?username=talmidiel&show_icons=true&count_private=true&theme=vision-friendly-dark&include_all_commits=true)](https://github.com/talmidiel)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talmidiel&langs_count=6&theme=vision-friendly-dark&layout=compact)](https://github.com/talmidiel)
-
-
-***
-Thanks to anuraghazra for the [github stats api](https://github.com/anuraghazra/github-readme-stats) !
